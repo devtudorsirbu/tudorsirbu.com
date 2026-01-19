@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://dev.tudorsirbu.com:splat"
+  to = "https://dev.tudorsirbu.com/:splat"
   status = 200
   force = true
